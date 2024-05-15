@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **Full Stack and ML**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Generative AI and Web Servers**
 
 - 👯 I’m looking to collaborate on **Full Stack and ML**
 
-- ⚡ Fun fact: 
+- ⚡ I might explore **Game Development** in the near future.
 
 # 📊 GitHub Stats:
 <img  src="https://streak-stats.demolab.com?user=guptasukant1&theme=dracula&hide_border=true&card_width=550"/>

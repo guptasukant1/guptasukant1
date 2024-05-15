@@ -16,5 +16,6 @@
 # 📊 GitHub Stats:
 <img  src="https://streak-stats.demolab.com?user=guptasukant1&theme=dracula&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=dracula&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=dracula)](https://github.com/guptasukant1/github-profile-trophy)
 
+# 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=dracula)](https://github.com/guptasukant1/github-profile-trophy)

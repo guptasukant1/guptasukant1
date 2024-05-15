@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img  src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=tokyonight&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
-<img  src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
-<img  src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=synthwave&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 <img  src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=dracula&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 
 ![Sukant's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=tokyonight&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github)

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Full Stack and ML**
 
-- 🌱 I’m currently learning **Generative AI and Web Servers**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Full Stack and ML**
 

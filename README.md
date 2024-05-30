@@ -19,8 +19,9 @@
 
 # 📊 GitHub Stats:
 <!-- <img  src="https://streak-stats.demolab.com?user=guptasukant1&theme=dracula&hide_border=true&card_width=550"/> -->
-<img src="https://streak-stats.demolab.com?user=guptasukant1&theme=neon-palenight&hide_border=true&card_width=550" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=dracula&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<!-- <img src="https://streak-stats.demolab.com?user=guptasukant1&theme=neon-palenight&hide_border=true&card_width=550" alt="GitHub Streak" /> -->
+<img src="https://streak-stats.demolab.com?user=guptasukant1&theme=radical&hide_border=true&card_width=550" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=radical&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 
 # 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=dracula)](https://github.com/guptasukant1/github-profile-trophy)

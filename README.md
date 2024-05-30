@@ -18,8 +18,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 # 📊 GitHub Stats:
-<img  src="https://streak-stats.demolab.com?user=guptasukant1&theme=dracula&hide_border=true&card_width=550"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=dracula&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<!-- <img  src="https://streak-stats.demolab.com?user=guptasukant1&theme=dracula&hide_border=true&card_width=550"/> -->
+<img src="https://streak-stats.demolab.com?user=guptasukant1&theme=neon-palenight&hide_border=true&card_width=550" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=dracula&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 
 # 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=dracula)](https://github.com/guptasukant1/github-profile-trophy)

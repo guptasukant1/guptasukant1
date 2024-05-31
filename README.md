@@ -24,4 +24,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=radical&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=dracula)](https://github.com/guptasukant1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=radical)](https://github.com/guptasukant1/github-profile-trophy)

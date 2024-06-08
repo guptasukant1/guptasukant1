@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack and ML**
 
-- ⚡ I might explore **Game Development** in the near future.
+- ⚡ I might explore **Game Development** in the future.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasukant1&label=Profile%20views&color=0e75b6&style=flat" alt="guptasukant1" /> </p>
 

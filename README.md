@@ -2,21 +2,11 @@
 
 - 🔭 I’m currently working on **Full Stack and ML**
 
-- 🌱 I’m currently learning **Vision Transformers and LLMs**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Full Stack and ML**
 
 - ⚡ I might explore **Game Development** in the future.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasukant1&label=Profile%20views&color=0e75b6&style=flat" alt="guptasukant1" /> </p>
-
-# ⛄️ Get In Touch:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sukant-gupta-56a526190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  </a>
-  
-</div>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -31,6 +21,22 @@
 <img src="https://streak-stats.demolab.com?user=guptasukant1&theme=radical&hide_border=true&card_width=550" alt="GitHub Streak" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasukant1&layout=compact&theme=radical" /> -->
 <img src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=radical&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasukant1&label=Profile%20views&color=0e75b6&style=flat" alt="guptasukant1" /> </p>
+
+# ⛄️ Get In Touch:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sukant-gupta-56a526190/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  </a>
+  <a href="guptasukant2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Red?logo=Gmail&logoColor=white&color=red&style=for-the-badge" />    
+  </a>
+  <a href="https://x.com/@starsung73">
+    <img src="https://img.shields.io/badge/X-black?logo=X&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
 
 # 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=guptasukant1&theme=radical)](https://github.com/guptasukant1/github-profile-trophy)

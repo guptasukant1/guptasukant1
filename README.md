@@ -30,9 +30,9 @@
   <a href="https://www.linkedin.com/in/sukant-gupta-56a526190/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   </a>
-  <a href="guptasukant2@gmail.com">
+  <!-- <a href="guptasukant2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Red?logo=Gmail&logoColor=white&color=red&style=for-the-badge" />    
-  </a>
+  </a> -->
   <a href="https://x.com/@starsung73">
     <img src="https://img.shields.io/badge/X-black?logo=X&logoColor=white&style=for-the-badge" />
   </a>

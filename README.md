@@ -22,7 +22,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasukant1&layout=compact&theme=radical" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=guptasukant1&theme=radical&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br> -->
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasukant1&label=Profile%20views&color=0e75b6&style=flat" alt="guptasukant1" /> </p>
 
 # ⛄️ Get In Touch:

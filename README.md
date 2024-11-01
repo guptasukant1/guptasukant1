@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **Full Stack and ML**
 
-- 🌱 I’m currently learning **Web Servers & Deployment**
+- 🌱 I’m currently learning **Web Servers & Deployments**
 
 - 👯 I’m looking to collaborate on **Full Stack and ML**
 
-- ⚡ I might explore **Game Development** in the future.
+- ⚡ I will explore **Cybersecurity** in the future.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
